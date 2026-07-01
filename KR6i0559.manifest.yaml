@@ -1,0 +1,205 @@
+canonical_identifier: bkk:krp/KR6i0559/v1
+canonical_location: https://kanripo.org/bkk/KR6i0559/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 圓覺經略疏鈔
+  identifiers:
+    alt_id:
+    - X09n0248
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X09/X09n0248.xml
+    old_id: X09n0248
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0559_000.yaml, hash: 'sha256:38d48c6a74270a40b6a2c78166b5465e10c81fcbee1cee6b19a731ba5aec7702'}
+  - {seq: 1, filename: KR6i0559_001.yaml, hash: 'sha256:9877733c3f73575d7224a134ed9f296a5edce3281f8c92f6197e1780202edbac'}
+  - {seq: 2, filename: KR6i0559_002.yaml, hash: 'sha256:51f43b6984274c7caf537ac29c60a7af64fae3409b44d693e2309f8b9159bc9b'}
+  - {seq: 3, filename: KR6i0559_003.yaml, hash: 'sha256:afd59086e7e25eca07e0aa54c49a761ae4cabb490227f5ccfc39972082f0c894'}
+  - {seq: 4, filename: KR6i0559_004.yaml, hash: 'sha256:853738e15912948707b2ef6356b94ea2198363c0dfe2d2d0aebbf94245f99c06'}
+  - {seq: 5, filename: KR6i0559_005.yaml, hash: 'sha256:bd1fad79cd02e9150545f8594066438cb4d2b4a039a212a6729f75997a9d44ec'}
+  - {seq: 6, filename: KR6i0559_006.yaml, hash: 'sha256:d878e06e797a646baeeb32dbab424776c6da1f66bde67ade93afbf837ee54095'}
+  - {seq: 7, filename: KR6i0559_007.yaml, hash: 'sha256:cf906c9453fe18f80c0187c1bd4a0b5f882817653a8660210d84e017c737d73c'}
+  - {seq: 8, filename: KR6i0559_008.yaml, hash: 'sha256:2f3407920768ab40528d4b9ed1427b64e764aa22787bd92945b2151e6ed04123'}
+  - {seq: 9, filename: KR6i0559_009.yaml, hash: 'sha256:dfc6d08f21ff6d131ec227af24fbebe35e95fc5b00ad63269707af557c3b6b80'}
+  - {seq: 10, filename: KR6i0559_010.yaml, hash: 'sha256:b6987474b48a71599cfcc56d9388356f4055d5315925a869e14907cbbf008135'}
+  - {seq: 11, filename: KR6i0559_011.yaml, hash: 'sha256:ef99c4ec623d696bba0736724f0c34f6f797cc1a9add7461ed1b9e473cc7765d'}
+  - {seq: 12, filename: KR6i0559_012.yaml, hash: 'sha256:e3b4300196b257c2ca162fae0e3a718a40523a3ab1b363acabc5c35f1b44047c'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6i0559_000.markers.yaml, hash: 'sha256:9ae53af9c2f10549a4e75969aa84109e78fb35560a2d95d332207cc401f4e941'}
+  - {seq: 1, role: markers, filename: assets/KR6i0559_001.markers.yaml, hash: 'sha256:790b8131a1430c035d292130f6a23ca2c3128fcf6a4be2ca6c8cd4e474726758'}
+  - {seq: 2, role: markers, filename: assets/KR6i0559_002.markers.yaml, hash: 'sha256:330985e08810f71d5e07d0c42487ebff1bb403fef1114aafc8404e51353f298f'}
+  - {seq: 3, role: markers, filename: assets/KR6i0559_003.markers.yaml, hash: 'sha256:a01ed152fc33b3bb802cf4b7582caddb8fd0e2ce888793e027cdc758a3eb5258'}
+  - {seq: 4, role: markers, filename: assets/KR6i0559_004.markers.yaml, hash: 'sha256:31fa76ccd04a30c3c3ffe815b5514608dcbdaf69440e1bb2845791697643be46'}
+  - {seq: 5, role: markers, filename: assets/KR6i0559_005.markers.yaml, hash: 'sha256:94ccbba66363ef96efd5833955cf48ac9d4747947ffe32333db5e0e4194d05c8'}
+  - {seq: 6, role: markers, filename: assets/KR6i0559_006.markers.yaml, hash: 'sha256:50d3a62f789fb419cd2f30d8181299d87292d4b943296b79ba89fd95a0bee090'}
+  - {seq: 7, role: markers, filename: assets/KR6i0559_007.markers.yaml, hash: 'sha256:899012e44c45ee6fa5a1819863f9925f5bb04339b975c7538eef1d9f32d8380f'}
+  - {seq: 8, role: markers, filename: assets/KR6i0559_008.markers.yaml, hash: 'sha256:df79cb87d6119899ef1dba41e27a09e3be51f89a3d5bfc5f0f6bcc92a0c5d4e6'}
+  - {seq: 9, role: markers, filename: assets/KR6i0559_009.markers.yaml, hash: 'sha256:a6da5979a74a3660416c38daffd690ac24fe5a15cde8608727e8cf0538f3dcfc'}
+  - {seq: 10, role: markers, filename: assets/KR6i0559_010.markers.yaml, hash: 'sha256:0c1b65b6808ad223640789e15e6238ad1d3eeae51f3d6bdb74aff1f8cc468562'}
+  - {seq: 11, role: markers, filename: assets/KR6i0559_011.markers.yaml, hash: 'sha256:9042e4a1095cf502c2b93023b3865c754dd8a649a1dc9345a34a97c5b9832384'}
+  - {seq: 12, role: markers, filename: assets/KR6i0559_012.markers.yaml, hash: 'sha256:8cde094dc2683814c74d01f5c13558d66a05c3f6a623d5fa4dd36a97c6c6c099'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6i0559_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 248-A 大方廣圓覺經略鈔序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6i0559_X_000-mulu-2
+    span:
+    - front
+    - 306
+    - 306
+  label: 大方廣圓覺經略鈔
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0559_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 13864
+  label: 大方廣圓覺經略鈔卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0559_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 17985
+  label: 圓覺經略疏之鈔卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0559_X_003-juan-start
+    span:
+    - body
+    - 0
+    - 15861
+  label: 圓覺經略疏之鈔卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6i0559_X_004-juan-start
+    span:
+    - body
+    - 0
+    - 17305
+  label: 圓覺經略疏之鈔卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6i0559_X_005-juan-start
+    span:
+    - body
+    - 0
+    - 18186
+  label: 圓覺經略疏之鈔卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6i0559_X_006-juan-start
+    span:
+    - body
+    - 0
+    - 19590
+  label: 圓覺經略疏之鈔卷第六
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6i0559_X_007-juan-start
+    span:
+    - body
+    - 0
+    - 14184
+  label: 圓覺經略疏之鈔卷第七
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6i0559_X_008-juan-start
+    span:
+    - body
+    - 0
+    - 19051
+  label: 圓覺經略疏之鈔卷第八
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6i0559_X_009-juan-start
+    span:
+    - body
+    - 0
+    - 19247
+  label: 圓覺經略疏之鈔卷第九
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6i0559_X_010-juan-start
+    span:
+    - body
+    - 0
+    - 15832
+  label: 圓覺經略疏之鈔卷第十
+  type: juan
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6i0559_X_011-juan-start
+    span:
+    - body
+    - 0
+    - 16697
+  label: 圓覺經略疏之鈔卷第十一
+  type: juan
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6i0559_X_012-juan-start
+    span:
+    - body
+    - 0
+    - 16413
+  label: 圓覺經略疏之鈔卷第十二
+  type: juan
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6i0559_X_012-mulu-1
+    span:
+    - body
+    - 16107
+    - 16107
+  label: No. 248-B
+  type: mulu
+  level: 1
+hash: sha256:9f09dac9f2926f5175495a30386344d7c5ed29ea0663fd9f5f21531120467020
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
