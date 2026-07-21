@@ -1,14 +1,11 @@
 canonical_identifier: bkk:krp/KR6i0559/x/v1/juan/0
 seq: 0
-front:
+body:
   text: 大方廣圓覺經略鈔序吳門傳教臨壇賜紫明義大師思齊述修身者何戒律而已矣融心者何圓覺而已矣始嚴戒律終顯圓覺并是二者豫猥受於先淨慧大師其諱善政門焉姑以所聞從事兼講指歸途於晚歲樂圓覺為要説其祖演章句即圭峯定慧禪師略疏二卷略鈔六卷疏以通經鈔以通疏探賾而索隱辭簡而義博則備之裴相國序道固師是流至于今今之駕説者莫不以茲鈔為司南乎思齊懵昧幸敷斯教當懼聖言紛於水鶴切慮傳者駮於魯魚因與武林法師仲希咨度衆本訪對輿典循尊古卑今之致竊及史闕文之旨約定元鈔將事刊勒門人子章力模方板僶俯揮振庸詎是非非也不削則削是也乃本其本後將斯文而覺世者無以不繼志而罪我乎如志我者則庶幾乎如來圓覺耀無窮矣圭峯章句導無極矣時皇宋康定二年辛巳歲杓建鶉咮月望日謹序
   hash: sha256:42d2329bcba0e2965c7571a9c15b51ecd3936d2615aeb06f2eb10bdab9345555
   markers:
   - {type: 序, offset: 0, content: No. 248-A 大方廣圓覺經略鈔序, id: KR6i0559_X_000-mulu-1, level: '1'}
   - {type: 其他, offset: 306, content: 大方廣圓覺經略鈔, id: KR6i0559_X_000-mulu-2, level: '1'}
-body:
-  text: ''
-  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 metadata:
   title: 圓覺經略疏鈔
   edition:
@@ -17,4 +14,4 @@ metadata:
     repository: cbeta
     path: /home/chris/src/xml-p5/X/X09/X09n0248.xml
     old_id: X09n0248
-hash: sha256:a8908d9983dab0aa07239f34e75c0a8b4e200bcce8d238ed22f8771e4157bbb8
+hash: sha256:5c7193732d905f98cd3466df01f6bf247a283fbe7f888c08a6246127f1349b88

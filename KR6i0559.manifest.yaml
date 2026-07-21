@@ -21,7 +21,7 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6i0559_000.yaml, hash: 'sha256:a8908d9983dab0aa07239f34e75c0a8b4e200bcce8d238ed22f8771e4157bbb8'}
+  - {seq: 0, filename: KR6i0559_000.yaml, hash: 'sha256:5c7193732d905f98cd3466df01f6bf247a283fbe7f888c08a6246127f1349b88'}
   - {seq: 1, filename: KR6i0559_001.yaml, hash: 'sha256:f8dc0940166d27644783423d347bfaab4ee9940a8c1e215307ef23f4cdec8e77'}
   - {seq: 2, filename: KR6i0559_002.yaml, hash: 'sha256:a55ffa3cb7e339269b299a3370c9b95e14e532ae5f7e056ab69e7024efe05275'}
   - {seq: 3, filename: KR6i0559_003.yaml, hash: 'sha256:6256e26d1db724fc6655d176b200a7f047ed563628eeef21c5a6133c2bd8d9ce'}
@@ -35,7 +35,7 @@ assets:
   - {seq: 11, filename: KR6i0559_011.yaml, hash: 'sha256:7b14e8da9af36195ba6fef63294c6aaf91b84d91f343667a1f5a0c3cf0ea0c64'}
   - {seq: 12, filename: KR6i0559_012.yaml, hash: 'sha256:499878e597daf3f1b5e1f7ee1007c003102731eacf67ae988d035207e0c3aaea'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6i0559_000.markers.yaml, hash: 'sha256:19a879386ee1ddb8c15ec1085f99e9fb8319f23e033d7374b39703366c4a91d9'}
+  - {seq: 0, role: markers, filename: assets/KR6i0559_000.markers.yaml, hash: 'sha256:13e7412acc574050658730c1e4b01376f6dea8713e9bcdf8c4dcbeb3bf98b932'}
   - {seq: 1, role: markers, filename: assets/KR6i0559_001.markers.yaml, hash: 'sha256:42d4505fcee946faf9ac00fb96649186f7cec52a303ccd9f8b1d411a1ebe56ad'}
   - {seq: 2, role: markers, filename: assets/KR6i0559_002.markers.yaml, hash: 'sha256:c8b9fa11484ad81ea40abb285c32c7b572d89754dd39c7d4c3f3721792ed76ce'}
   - {seq: 3, role: markers, filename: assets/KR6i0559_003.markers.yaml, hash: 'sha256:50ab7a227c1749f0c5ac99775870b8bba37507774b19d9234a556d1bd265db2a'}
@@ -53,7 +53,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6i0559_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 248-A 大方廣圓覺經略鈔序
@@ -63,7 +63,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6i0559_X_000-mulu-2
     span:
-    - front
+    - body
     - 306
     - 306
   label: 大方廣圓覺經略鈔
@@ -199,7 +199,7 @@ table_of_contents:
   label: No. 248-B
   type: mulu
   level: 1
-hash: sha256:0b1837e25aefdf7148547a5f97ce1338a7b994bd6790661a6a6693e9baa425fc
+hash: sha256:f6eb98a9bfa73ecc161639c9db457397c4c305c02e6b87cacaafe5099ef44791
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
